@@ -8,7 +8,7 @@ For the last 20 years I've worked in startups, startup sales, product management
 
 ### 🚀 What I'm building now
 
-- **[Rondyvoo](https://rondyvooapp.com)** 🍻: A new kind of midpoint meeting app, inspired by business… at the pub. *In active development.*
+- **[Rondyvoo](https://rondyvoo.com)** 🍻: A new kind of midpoint meeting app, inspired by business… at the pub. *In active development.*
 - **[Chairport](https://chairport.app)** ♿: Better wheelchair management for anyplace that provides accessibility assistance. *In active development.*
 
 I'm building these hands-on with modern AI-assisted tooling, because I believe leaders should understand how today's products actually get made.
