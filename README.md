@@ -1,8 +1,8 @@
 # Hi, I'm Greg Wood 👋
 
-**I'm a startup founder, seasoned CEO and business leader, plus a builder and a marketer.**
+**I'm a startup founder, seasoned CEO and business leader, plus a seller, builder and a marketer.**
 
-For more than 20 years I've worked in product management, product marketing and communications, including product communications, PR, and government and analyst relations. I've co-founded and scaled a startup, run product management and product marketing on a global stage, and had the pleasure of talking to thousands of customers. I've also coached and played a lot of hockey. Now I'm building and scaling software businesses for creators, media teams and knowledge workers, and co-writing the code with AI.
+For the last 20 years I've build worked in startups, startup sales, product management, product marketing and communications, including product comms, PR, and government and analyst relations. I've co-founded and scaled a startup, run product management and product marketing on a global stage, and had the pleasure of talking to thousands of customers. I've also coached and played a lot of hockey. Now I'm building and scaling software businesses for creators, media teams and knowledge workers, and co-writing the code with AI.
 
 ---
 
